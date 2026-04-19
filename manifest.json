@@ -1,7 +1,8 @@
 {
   "name": "Trade Journal",
   "short_name": "Journal",
-  "start_url": "./trading-journal.html",
+  "start_url": "/trade-journal/",
+  "scope": "/trade-journal/",
   "display": "standalone",
   "background_color": "#050a0f",
   "theme_color": "#050a0f",
